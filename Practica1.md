@@ -1,6 +1,6 @@
-#Versión 1
+# Versión 1
 
-##Bioquímica
-##Electrónica
-##Ecuaciones Diferenciales
-##Termodinámica
+## Bioquímica
+## Electrónica
+## Ecuaciones Diferenciales
+## Termodinámica
