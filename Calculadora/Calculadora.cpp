@@ -12,11 +12,11 @@ int main(){
     int primnum;
     int segnum;
     char operacion;
-    char i= '1';
+    char i= '|';
 
     cout << "--Calculadora--"<< "\n"<< "Resuleve operaciones basicas"<< endl;
 
-    while(i == '1'){
+    while(i == '|'){
 
         cout << "Ingrese la operacion\n" << endl;
         cout << "Primer numero:";
@@ -58,7 +58,7 @@ int main(){
                 break;
         }
 
-        cout << "\nPresione 1 para repetir o cualquier tecla para salir"<< endl;
+        cout << "\n Envie cualquier valor para salir"<< endl;
         cin >> i;
     }
 }
