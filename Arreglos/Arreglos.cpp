@@ -62,7 +62,7 @@ array<float, LEN> LlenarArreglo()
     array<float, LEN> arr {0};
     for(int i=0; i < LEN; i++)
     {
-        cout << "valor elemento " << i << ":";
+        cout << "valor elemento [" << i << "]:";
         cin >> arr[i];
     }
     return arr;
