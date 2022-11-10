@@ -1,7 +1,7 @@
 #ifndef PUNTO_H
 #define PUNTO_H
 
-#include <cmath>
+#include <math.h>
 #include <iostream>
 
 using namespace std;
