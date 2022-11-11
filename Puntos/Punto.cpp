@@ -1,4 +1,4 @@
-#include "punto.h"
+#include "Punto.h"
 
 void Punto2D::SetPosicion(float x1,float y1){
 	x=x1;
