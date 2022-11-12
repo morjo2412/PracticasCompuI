@@ -14,9 +14,7 @@ void Punto2D::RotarRespectoAlOrigen(float temp1){
 	y1=y;
 	const double pi = std::acos(-1);
 	rad=(temp1)*(pi/180);
-	cout<<x<< "  "<< y<<endl;
 	x= (x1*cos(rad))-(y1*sin(rad));
-	cout<<rad<< " "<< cos(rad)<<" "<<sin(rad)<<endl;
 	y= (x1*sin(rad))+(y1*cos(rad));
 }
 void Punto2D::Escalar(float temp1,float temp2){
